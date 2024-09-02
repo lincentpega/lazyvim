@@ -11,7 +11,7 @@ return {
           settings = {
             html = {
               format = {
-                enable = true,
+                enable = false,
               },
               validate = {
                 enable = true,

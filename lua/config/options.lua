@@ -9,3 +9,5 @@ vim.cmd([[
     set expandtab
     set autoindent
 ]])
+
+vim.g.autoformat = false
